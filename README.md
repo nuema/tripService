@@ -18,6 +18,6 @@ _I've had this Kata as a technical challenge for a Java job.
 
 _This is my revenge._
 
-_Java worked out__
+_Java worked out_
 
 
