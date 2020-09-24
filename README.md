@@ -1,6 +1,7 @@
 Trip Service Kata
 =================
 
+
 Kata for legacy code hands-on session. The objective is to test and refactor the legacy TripService class.
 
 The end result should be well-crafted code that express the domain.
@@ -10,3 +11,10 @@ You can watch the video with my solution. Although quite long, I explain my whol
 The video is full of tips and tricks that can be used in any language.
 
 https://www.youtube.com/watch?v=_NnElPO5BU0
+
+
+_I've had this Kata as a technical challenge for a Java job.
+1.30hs to solve it. I couldn't back then. This is my revenge.
+Java worked out by Nuema_
+
+
