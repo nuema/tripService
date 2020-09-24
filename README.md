@@ -14,10 +14,10 @@ https://www.youtube.com/watch?v=_NnElPO5BU0
 
 
 _I've had this Kata as a technical challenge for a Java job.
-1.30hs to solve it. I couldn't back then. 
+1.30hs to solve it. I couldn't back then._
 
-This is my revenge.
+_This is my revenge._
 
-Java worked out_
+_Java worked out__
 
 
