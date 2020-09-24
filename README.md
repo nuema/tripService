@@ -14,7 +14,10 @@ https://www.youtube.com/watch?v=_NnElPO5BU0
 
 
 _I've had this Kata as a technical challenge for a Java job.
-1.30hs to solve it. I couldn't back then. This is my revenge.
-Java worked out by Nuema_
+1.30hs to solve it. I couldn't back then. 
+
+This is my revenge.
+
+Java worked out_
 
 
